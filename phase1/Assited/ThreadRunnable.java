@@ -1,7 +1,3 @@
-Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
-
-
-
 public class AboutRunnable extends Thread{
 
 	public static void main(String[] args) {
