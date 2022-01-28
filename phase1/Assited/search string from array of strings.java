@@ -1,5 +1,3 @@
-//write a program to spackage mywork;
-
 public class FromEnteredStringInAString {
 
 	public static void main(String[] args) {
