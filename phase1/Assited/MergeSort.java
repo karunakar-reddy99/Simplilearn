@@ -1,6 +1,3 @@
-Implement the merge sort algorithm in a predefined array
-
-
 public class MergeSort {
 
 	public static void main(String[] args) {
