@@ -1,7 +1,4 @@
-Implement the exponential search algorithm in a predefined array
-
-
- import java.util.Arrays;
+import java.util.Arrays;
 
 public class ExponentialSearch {
 
