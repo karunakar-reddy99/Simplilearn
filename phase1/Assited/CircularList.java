@@ -1,7 +1,3 @@
-Write a program in Java to insert a new element in a sorted circular linked list
-
-
-
 public class CircularList {
 	public static void main(String[] args) 
 	{ 
