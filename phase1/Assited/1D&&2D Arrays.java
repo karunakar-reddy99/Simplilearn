@@ -1,8 +1,3 @@
-//write a program to create single-dimensional & multidimensional arrays
-package mywork;
-
-package mywork;
-
 import java.util.Scanner;
 
 public class OneDandTwoDarrays {
