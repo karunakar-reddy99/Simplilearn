@@ -1,7 +1,3 @@
-Validation of email id
-
-import java.util.Scanner;
-
 public class Jobseeker {
 
 	public static void main(String[] args) {
