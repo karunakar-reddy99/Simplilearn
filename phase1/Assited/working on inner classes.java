@@ -1,7 +1,3 @@
-//write a program to demonstrate the working on inner classes
-package mywork;
-
-
 public class InnerclassesTypes {
 	public static void main(String[] args) {
 		System.out.println("Regular Inner Classes output");
