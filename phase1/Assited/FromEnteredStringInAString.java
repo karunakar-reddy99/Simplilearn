@@ -1,6 +1,3 @@
-//writr a program to search a specific string from the given set of strings using regular expressions
-package mywork;
-
 import java.util.Scanner;
 
 public class StringinaString {
