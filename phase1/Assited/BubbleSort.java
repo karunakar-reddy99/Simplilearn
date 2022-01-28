@@ -1,6 +1,3 @@
-Implement the bubble sort algorithm in a predefined array 
-
-
 public class BubbleSort {
 
 	public static void main(String[] args) {
