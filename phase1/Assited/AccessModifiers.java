@@ -1,9 +1,6 @@
-//wrie a program to demonstrate when and how access modifiers are used
-package mywork;
-
 public class AccessModifiers {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 Human human = new kanna();
 human.hands();
