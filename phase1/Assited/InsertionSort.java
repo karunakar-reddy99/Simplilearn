@@ -1,7 +1,3 @@
-Implement the insertion sort algorithm in a predefined array
-
-
-
 public static void main(String[] args) {
 		InsertionSort obj = new InsertionSort();
 		int arr[] = {6,10,18,24,12,25,16,22};
