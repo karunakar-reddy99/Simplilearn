@@ -1,7 +1,3 @@
-Write a program in Java to delete the first occurrence of a key in a singly linked list 
-
-
-
 import java.io.*; 
 public class LinkedList {
 	Node head;
