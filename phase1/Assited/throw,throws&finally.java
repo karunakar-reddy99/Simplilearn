@@ -1,7 +1,3 @@
-Write a program in Java to demonstrate throw,throws,finally.
-
-
-
 \\throw
 
 public class AboutThrow {
