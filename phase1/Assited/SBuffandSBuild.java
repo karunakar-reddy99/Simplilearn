@@ -1,6 +1,3 @@
-//write a program to create a string and display the conversion of string to stringbuffer and string builder
-package mywork;
-
 public class SBuffandSBuild {
 	public static void main(String[] args) {
 		StringBuffer hak = new StringBuffer("Welcome to the world.");
