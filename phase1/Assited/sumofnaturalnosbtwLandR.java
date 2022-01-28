@@ -1,6 +1,3 @@
-Write a program in Java to find the sum of n number of elements in the range of L and R where 0 <= L <= R <= n-1
-
-
 import java.util.Scanner;
 
 public class sumofnaturalnosbtwLandR {
