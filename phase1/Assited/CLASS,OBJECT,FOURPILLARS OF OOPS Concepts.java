@@ -1,9 +1,3 @@
-Write a program in Java to demonstrate the uses of classes, objects, and the object-oriented pillars in Java
-
-
-
-
-
 //ABOUT ABSTRACTION
 
 
