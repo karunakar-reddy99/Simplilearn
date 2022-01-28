@@ -1,7 +1,3 @@
-Write a program in Java to insert and remove elements in a stack
-
-
-
 import java.util.Stack;
 
 public class AboutStack {
