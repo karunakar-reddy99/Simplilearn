@@ -1,10 +1,3 @@
-Write a program in Java to traverse a doubly linked list in the forward and backward directions
-
-
-
-
-
-
 public class DoubleLinkedList {
 	Node head;  
 class Node 
