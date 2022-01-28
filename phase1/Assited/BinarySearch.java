@@ -1,6 +1,3 @@
-Implement the binary search algorithm in a predefined array
-
-
 public class BinarySearch {
 
 	public static void main(String[] args) {
