@@ -1,6 +1,3 @@
-//Write a program to demonstrate the uses of collections and its types.
-package mywork;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
