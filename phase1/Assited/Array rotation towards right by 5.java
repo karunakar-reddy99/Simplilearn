@@ -1,6 +1,3 @@
-Write a program in Java to right rotate an array by 5 steps
-
-
 import java.util.Scanner;
 
 public class MoveArray {
