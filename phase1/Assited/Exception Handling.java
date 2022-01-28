@@ -1,6 +1,3 @@
-Write a program in Java to demonstrate exception handling
-
-
 import java.util.Scanner;
 
 public class Exceptionhandler {
