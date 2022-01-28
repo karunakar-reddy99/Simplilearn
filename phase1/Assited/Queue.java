@@ -1,6 +1,3 @@
-Write a program in Java to insert and remove elements in a queue
-
-
 import java.util.LinkedList;
 import java.util.Queue;
 
