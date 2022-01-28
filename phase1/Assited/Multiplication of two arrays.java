@@ -1,6 +1,3 @@
-Write a program in Java to multiply two matrices
-
-
 public class MultiplicationofMatrix {
 
 	public static void main(String[] args) {
