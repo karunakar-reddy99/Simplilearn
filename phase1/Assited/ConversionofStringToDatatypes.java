@@ -1,5 +1,3 @@
-//Wrie a program which take String as a input and will convert into other primitive data types
-package mywork;
 
 import java.text.ParseException;
 
