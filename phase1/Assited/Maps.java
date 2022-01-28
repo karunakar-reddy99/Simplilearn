@@ -1,5 +1,3 @@
-//wrie a program to demonstrate the uses of map...
-package mywork;
 import java.util.*;
 public class MapUses {
 
