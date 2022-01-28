@@ -1,6 +1,3 @@
-//as a developer ,wrie a program to create an arithematic calculator
-package mywork;
-
 import java.util.Scanner;
 
 public class ArithematicCalculator {
