@@ -1,7 +1,3 @@
-Write a program in Java to demonstrate Custom exception
-
-
-
 import java.util.Scanner;
 
 public class CustomException {
