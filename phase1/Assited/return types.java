@@ -1,6 +1,3 @@
-//write a program to demonstrate diffirent methods of diffirent return types
-package mywork;
-
 public class ReturnType {
 
 	public static void main(String[] args) {
