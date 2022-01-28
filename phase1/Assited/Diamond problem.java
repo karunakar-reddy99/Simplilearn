@@ -1,6 +1,3 @@
-Write a program in Java to resolve the diamond problem using OOPs’ concepts
-
-
 public class Diamondproblem implements class1, class2  
 {  
 public void output()   
