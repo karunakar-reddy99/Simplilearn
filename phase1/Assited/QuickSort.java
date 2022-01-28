@@ -1,7 +1,3 @@
-Implement the quick sort algorithm in a predefined array
-
-
-
 public class QuickSort {
 	public static void main(String[] args)
 	{
