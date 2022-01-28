@@ -1,7 +1,3 @@
-Write a program in Java to demonstrate create,delete,read,update file
-
-
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
