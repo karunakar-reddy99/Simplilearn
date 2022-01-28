@@ -1,6 +1,3 @@
-Write a program in Java to find the fourth smallest element in an unsorted list
-
-
 import java.util.Arrays;
 import java.util.Scanner;
 
