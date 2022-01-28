@@ -1,7 +1,3 @@
-As a developer, write a program to find the longest increasing subsequence.
-
-
-
 public class listofarray {
 
 	static int max;
