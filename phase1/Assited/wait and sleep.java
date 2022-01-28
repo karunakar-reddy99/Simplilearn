@@ -1,8 +1,3 @@
-1.Write a program in Java to demonstrate sleep() and wait()
-2.Write a program in Java to demonstrate synchronization
-3.Write a program in Java to demonstrate try and catch
-
-
 public class WaitAndSleep extends Thread{
 
 	public static void main(String[] args) {
