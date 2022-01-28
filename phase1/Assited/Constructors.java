@@ -1,6 +1,3 @@
-//write a program to demonstrate the uses of constructors and its types
-package mywork;
-
 import java.util.Scanner;
 
 public class UseOfConstructers {
