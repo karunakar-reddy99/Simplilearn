@@ -1,8 +1,0 @@
-Automate a Web Application
-Project Objective:
-As a Full Stack Developer, you have to build an automation script that automated the basic 
-functionalities like registration and login.
-Background of the problem statement:
-As the project is in the final stage, management has asked you to automate the basic functionalities 
-like registration and login for all the internal employees. This will help the development and DevOps 
-team to work efficiently with the application.

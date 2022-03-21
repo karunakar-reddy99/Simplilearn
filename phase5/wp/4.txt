@@ -1,8 +1,0 @@
-Setting Up Jenkins Pipeline to Deploy Docker Swarm
-DESCRIPTION
-Project objective:
-You have to develop an environment for Docker networking.
-Background of the problem statement:
-As you have worked on Docker containers previously, your manager has asked you to perform 
-container scheduling over multiple hosts using Docker CLI and connect multiple hosts with Docker 
-containers.
